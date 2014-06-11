@@ -5,7 +5,7 @@
       <title> here is where the title goes />
       <Link type="text.css" href="css.css" rel="stylesheet" />
       <script type="text/javascript" src="d3.v3.min.js" />
-      <!-- <script src="http://d3js.org/d3.v3.min.js"></script> --><!-- latest version from d3 website -->
+      <script src="http://d3js.org/d3.v3.min.js" /> <!-- latest version from d3 website -->
   </head>
     <body>
       <h1>Header</h1>
