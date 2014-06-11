@@ -2,9 +2,9 @@
 <html>
   <!--comment-->
   <head>
-      <title> simple bar chart supposed to appear here somewhere <\title>
+      <title> simple bar chart supposed to appear here somewhere </title>
       <Link type="text.css" href="css.css" rel="stylesheet" />
-      <script type="text/javascript" src="d3.v3.min.js"></script>
+      <script type="text/javascript" src="d3.v3.min.js" />
       <!-- <script src="http://d3js.org/d3.v3.min.js"></script> --><!-- latest version from d3 website -->
   </head>
     <body>
