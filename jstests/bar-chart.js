@@ -6,9 +6,9 @@
       <Link type="text.css" href="css.css" rel="stylesheet" />
       <script type="text/javascript" src="d3.v3.min.js"></script>
       <!-- <script src="http://d3js.org/d3.v3.min.js"></script> --><!-- latest version from d3 website -->
-    </head>
+  </head>
     <body>
-      <h1> Header</h1>
+      <h1>Header</h1>
       <br>
       <h2>Header2</h2>
       <div>
