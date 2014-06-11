@@ -1,4 +1,4 @@
-var data = [24, 15, 18, 23, 42, 13];
+var data = [24, 15, 18, 23, 41, 13];
 
 var chart = d3.select('div,#ilearning").append("svg)
   .attr("class", "chart")
