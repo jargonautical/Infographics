@@ -1,6 +1,6 @@
-[!DOCUMENT_TYPE = HTML]
+[!DOCTYPE HTML]
 <html>
-  <!-- comment -->
+  <!--comment-->
   <head>
       <title> simple bar chart supposed to appear here somewhere</title>
       <Link type="text.css" href="css.css" rel="stylesheet" />
