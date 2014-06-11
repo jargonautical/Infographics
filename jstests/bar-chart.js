@@ -1,3 +1,4 @@
+[!DOCUMENT_TYPE = HTML]
 <html>
   <!-- comment -->
   <head>
